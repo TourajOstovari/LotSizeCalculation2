@@ -1,0 +1,16 @@
+C:\Users\TourajOstovari\Desktop\LotSize\LotSize\LotSize\bin\Debug\net8.0-windows\LotSize.exe
+C:\Users\TourajOstovari\Desktop\LotSize\LotSize\LotSize\bin\Debug\net8.0-windows\LotSize.deps.json
+C:\Users\TourajOstovari\Desktop\LotSize\LotSize\LotSize\bin\Debug\net8.0-windows\LotSize.runtimeconfig.json
+C:\Users\TourajOstovari\Desktop\LotSize\LotSize\LotSize\bin\Debug\net8.0-windows\LotSize.dll
+C:\Users\TourajOstovari\Desktop\LotSize\LotSize\LotSize\bin\Debug\net8.0-windows\LotSize.pdb
+C:\Users\TourajOstovari\Desktop\LotSize\LotSize\LotSize\obj\Debug\net8.0-windows\LotSize.Form1.resources
+C:\Users\TourajOstovari\Desktop\LotSize\LotSize\LotSize\obj\Debug\net8.0-windows\LotSize.csproj.GenerateResource.cache
+C:\Users\TourajOstovari\Desktop\LotSize\LotSize\LotSize\obj\Debug\net8.0-windows\LotSize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TourajOstovari\Desktop\LotSize\LotSize\LotSize\obj\Debug\net8.0-windows\LotSize.AssemblyInfoInputs.cache
+C:\Users\TourajOstovari\Desktop\LotSize\LotSize\LotSize\obj\Debug\net8.0-windows\LotSize.AssemblyInfo.cs
+C:\Users\TourajOstovari\Desktop\LotSize\LotSize\LotSize\obj\Debug\net8.0-windows\LotSize.csproj.CoreCompileInputs.cache
+C:\Users\TourajOstovari\Desktop\LotSize\LotSize\LotSize\obj\Debug\net8.0-windows\LotSize.dll
+C:\Users\TourajOstovari\Desktop\LotSize\LotSize\LotSize\obj\Debug\net8.0-windows\refint\LotSize.dll
+C:\Users\TourajOstovari\Desktop\LotSize\LotSize\LotSize\obj\Debug\net8.0-windows\LotSize.pdb
+C:\Users\TourajOstovari\Desktop\LotSize\LotSize\LotSize\obj\Debug\net8.0-windows\LotSize.genruntimeconfig.cache
+C:\Users\TourajOstovari\Desktop\LotSize\LotSize\LotSize\obj\Debug\net8.0-windows\ref\LotSize.dll
